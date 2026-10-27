@@ -6,6 +6,8 @@
 
 - Goddess of righteous valor, justice, and honor.
 
+- Former mortal memeber of the [[Orginizations/Knights of Lastwall\|Knights of Lastwall]], later ascending to godhood.
+
 - Worshipped by [[The Party/Brother Koran\|Brother Koran]].
 
 - **Edicts**: Be temperate, fight for justice and honor, hold valor in your heart.  

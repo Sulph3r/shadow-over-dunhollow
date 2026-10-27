@@ -19,7 +19,7 @@
 
 # Lore
 [[Lore/Whispering Tyrant\|Whispering Tyrant]]
-### Deities
+#### Deities
 [[Lore/Deities/Iomedae\|Iomedae]]
 
 # NPCs
@@ -27,6 +27,7 @@
 
 # Organizations
 [[Orginizations/Knights of Lastwall\|Knights of Lastwall]]
+[[Orginizations/Vampire Lords\|Vampire Lords]]
 
 # Quests
 [[Quests/Escort the Physician\|Escort the Physician]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adventure-log/prelude/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/adventure-log/prelude/","dg-note-properties":{}}
 ---
 
 The adventure begins on a road in the land of [[Locations/Ustalav\|Ustalav]].
